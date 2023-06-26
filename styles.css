@@ -1,0 +1,30 @@
+body { 
+	background: purple;
+	font-size: 20px;
+	font-weight: normal;
+	font: normal;
+	line-height: 1.5em;
+	margin: 1.0;
+}
+
+p {color: black}
+h1{color: black;
+	background-color: purple;
+	border: dotted;
+}
+h2{color: black;
+	background-color: purple;
+	border: dotted;
+}
+h3{color: black;
+	background-color: purple;
+	border: dotted;
+}
+h4{color: black;
+	background-color: purple;
+	border: dotted;
+}
+a {
+	color: red;
+	text-decoration: underline;
+}

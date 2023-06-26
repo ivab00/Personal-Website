@@ -1,0 +1,21 @@
+<html>
+<head>
+Welcome All
+</head>
+<body>
+	<ul>
+		<li>All About Bre</li>
+		<li>Education</li>
+		<li>Book Recommendations</li>
+		<li>Contact</li>
+	</ul>
+Welcome to my all about Bre website. On this site you will find information about my personal and professional life and achievements.
+<h1>About Bre!!</h1>
+<p>My name is <strong>Iva Breanna Bunch</strong>, everyone calls me Bre! I graduated from Whitley County High School in 2018 and from <I>University of the Cumberlands</I> in 2022 with a degree in <bold>middle school math, elementary education with an emphasis in special education</bold>. I began teaching full-time at Whitley North Elementary School. I taught 5th grade special education this year. 
+I look forward to getting my library-media specialist degree to help students in the library.</p>
+<h2>More Coming Soon!!!</h2>
+<p> You can visit my mock school library website at: <a
+href="https://sites.google.com/view/wchslibrary/home"> Whitley County High School</a>
+</p>
+</body>
+</html>
